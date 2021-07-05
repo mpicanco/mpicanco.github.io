@@ -6,7 +6,12 @@ I'm glad you are here. I plan to talk about ...
 why not uptading 
 
 ## About me: 
-[CV](/assets/RESUME_MARCOPICANCO.pdf)
+- My professional [CV](/assets/RESUME_MARCOPICANCO.pdf)
+- My personal projects
+  - Surfboard Fins
+  - testing  
+  
+
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
