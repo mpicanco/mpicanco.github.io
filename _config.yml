@@ -1,10 +1,11 @@
 
-title: Marco Antonio Picanco (mpicanco)
+title: Marco Picanco
 author: GitHub User
 email: mpicanco@gmail.com
 logo: onda.png
 description: > # this means to ignore newlines until "baseurl:"
-  Hi all.. Engineering, Python, Surfing and Coding Adventures.
+Engineering, Python, Surfing and Coding Adventures.
+  
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  mpicanco # DO NOT include the @ character, or else the build will fail!
