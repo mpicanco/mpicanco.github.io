@@ -7,7 +7,7 @@ description: Engineering, Python, Surfing and Coding Adventures.
 
 # social links
 twitter: MA_Picanco # DO NOT include the @ character, or else the build will fail!
-github:  mpicanco # DO NOT include the @ character, or else the build will fail!
+github: mpicanco # DO NOT include the @ character, or else the build will fail!
 show_excerpts: flase # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minimal
