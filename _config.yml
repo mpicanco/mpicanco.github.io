@@ -5,10 +5,12 @@ email: mpicanco@gmail.com
 logo: onda.png
 description: Engineering, Python, Surfing and Coding Adventures.
   
+
 # social links
 twitter_username: MA_Picanco # DO NOT include the @ character, or else the build will fail!
 github_username:  mpicanco # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+[CV](/assets/RESUME_MARCOPICANCO.pdf)
+show_excerpts: flase # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minimal
