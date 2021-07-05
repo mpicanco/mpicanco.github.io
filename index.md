@@ -5,6 +5,7 @@ title: "Marco Antonio Picanco"
 I'm glad you are here. I plan to talk about ...
 why not uptading 
 
+## About me: 
 [CV](/assets/RESUME_MARCOPICANCO.pdf)
 
 - [x] #739
